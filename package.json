@@ -1,0 +1,16 @@
+{
+  "name": "e2epoc",
+  "version": "0.0.0",
+  "description": "testing without depending upon angularjs",
+  "main": "test.js",
+  "dependencies": {
+    "jasmine-node": "~1.14.3",
+    "selenium-webdriver": "~2.41.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
